@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bridge", "Bridge\Bridge.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strategy", "Strategy\Strategy.vcxproj", "{2890E01C-A2CC-4AE3-8BCB-87CD71F2124A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "State", "State\State.vcxproj", "{4CD8C9BC-34A1-4F7E-A2F6-2223C4C6448B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{2890E01C-A2CC-4AE3-8BCB-87CD71F2124A}.Release|x64.Build.0 = Release|x64
 		{2890E01C-A2CC-4AE3-8BCB-87CD71F2124A}.Release|x86.ActiveCfg = Release|Win32
 		{2890E01C-A2CC-4AE3-8BCB-87CD71F2124A}.Release|x86.Build.0 = Release|Win32
+		{4CD8C9BC-34A1-4F7E-A2F6-2223C4C6448B}.Debug|x64.ActiveCfg = Debug|x64
+		{4CD8C9BC-34A1-4F7E-A2F6-2223C4C6448B}.Debug|x64.Build.0 = Debug|x64
+		{4CD8C9BC-34A1-4F7E-A2F6-2223C4C6448B}.Debug|x86.ActiveCfg = Debug|Win32
+		{4CD8C9BC-34A1-4F7E-A2F6-2223C4C6448B}.Debug|x86.Build.0 = Debug|Win32
+		{4CD8C9BC-34A1-4F7E-A2F6-2223C4C6448B}.Release|x64.ActiveCfg = Release|x64
+		{4CD8C9BC-34A1-4F7E-A2F6-2223C4C6448B}.Release|x64.Build.0 = Release|x64
+		{4CD8C9BC-34A1-4F7E-A2F6-2223C4C6448B}.Release|x86.ActiveCfg = Release|Win32
+		{4CD8C9BC-34A1-4F7E-A2F6-2223C4C6448B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
